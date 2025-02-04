@@ -1,45 +1,86 @@
-# Excel-Sales-and-Finance-Analytics
-## Sales Report :
+# Atliq Hardware Business Intelligence Reports
 
+## Introduction
+Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
 
-- **Project objective:** 
+These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
-    **1.** Create a [customer performance report](https://github.com/Dinesh281197/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+## Problem Statement
+To develop an interactive business intelligence dashboard, Sales and Finance Analytics Report, aimed at extracting decision-making insights for well-articulated strategies at Atliq Hardware.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/Dinesh281197/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+## Sales Analysis
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+### Objectives
+1. **Customer Net Sales Performance Report**: Overview of revenue generated from customers.
+2. **Market Performance vs. Sales Targets Comparison**: Analysis of sales efforts against goals and market conditions.
+3. **Top 10 Products with Sales Increase**: Identify which products had the biggest increase in sales from 2020 to 2021.
+4. **Division Sales Report**: Create a report showing total revenue in 2020 and 2021 and how much sales grew.
+5. **Top and Bottom 5 Sold Products**: Identify the top 5 and bottom 5 products sold by quantity.
+6. **New Products in 2021**: List new products Atliq started selling in 2021.
+7. **Top 5 Sales Countries in 2021**: Identify the five countries with the highest sales in 2021.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+### Sales Analysis Reports
+1. **Customer Net Sales Performance Report**
+   - Insights: Revenue increased from $87.5 million in 2019 to $598.9 million in 2021 (304.5% growth).
 
-- **Role of reports:** Determine effective customer discounts, facilitate consumer negotiations, and identify potential business expansion opportunities in promising countries.
+2. **Market Performance vs. Sales Targets Comparison**
+   - Insights: Some markets exceeded their sales targets, while others fell short, providing insights for future strategies.
+   - 
+3. **Top 10 Products with Sales Increase**
+   - Insights: The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 
+4. **Division Sales Report**
+   - Insights: 
+     - PC's sales increased from $40.1 million in 2020 to $165.8 million in 2021.
+     - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
+     - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 
-## Finance Report :
+5. **Top and Bottom 5 Sold Products**
+   - **Top 5 Products by Quantity**: Insights on best-performing products, with "AQ Master wired x1 Ms" leading.
+   - **Bottom 5 Products by Quantity**: Insights into underperforming products and considerations for adjustments.
 
-- **Project objective:** 
+6. **New Products in 2021**
+   - Insights: 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Dinesh281197/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Dinesh281197/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+7. **Top 5 Sales Countries in 2021**
+   - Insights: 
+     - India led with $161.3 million in sales.
+     - Strong sales were also noted in the USA, South Korea, the UK, and Canada.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Dinesh281197/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+## Financial Analysis
 
-- **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate stakeholder communication.
+### Objectives
+1. **Yearly Profit and Loss (P&L) Report**: Financial performance breakdown for each fiscal year.
+2. **Quarterly Profit and Loss (P&L) Comparison**: Financial performance trends throughout the year.
+3. **Market-Specific Profit and Loss (P&L) Report**: Performance breakdown for each market.
+4. **Quarterly Gross Margin Percentage (GM%) by Location**: Profitability view by geographic area.
 
-- **Importance of analyzing Finance data:** It aids in benchmarking against industry peers and previous periods and provides a Foundation for budgeting and forecasting.
+### Financial Analysis Reports
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+1. **Yearly Profit and Loss (P&L) Report**
+   - Insights: Net Sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
+2. **Quarterly Profit and Loss (P&L) Comparison**
+   - Insights: Significant sales growth in 2021 with stable profit margins despite increased costs.
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+3. **Market-Specific Profit and Loss (P&L) Report**
+   - Insights: Japan and New Zealand showed the highest profit margins, while Germany had lower margins.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report-building plan.
+4. **Quarterly Gross Margin Percentage (GM%) by Location**
+   - Insights: Variations in profit margins by region, aiding in performance assessments and strategic decisions.
+
+## Overall Insights
+- **Customer Sales Performance**: Notable growth in sales, especially in 2021 with a 304% increase.
+- **Top 10 Products**: Continued strong performance of key products from 2020 to 2021.
+- **Market Performance vs. Target**: Insights into market performance relative to sales goals.
+- **New Products in 2021**: Successful introduction of new products with strong sales.
+- **Top 5 Countries in 2021**: Identification of leading markets with robust sales figures.
+- **Top and Bottom 5 Products**: Focus on both high-performing and underperforming products for strategic adjustments.
+- **Division Level Report**: Impressive growth in the PC division, with substantial revenue increases.
+- **Profit and Loss Reports**: Detailed assessment of financial health across various dimensions.
+- **Profit and Loss Reports by Markets**: Insights into profitability across different regions, informing future strategies.
+- **Gross Margin % by Quarter**: Understanding of regional performance changes, aiding in decision-making.
+
+---
+
+This comprehensive overview serves as a foundation for further analysis and strategy formulation at Atliq Hardware.
